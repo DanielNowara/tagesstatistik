@@ -1,0 +1,29 @@
+{
+    "mitarbeiter": [
+        "Daniel",
+        "Lukas",
+        "Carina",
+        "Yvonne",
+        "Anna"
+    ],
+    "punkte_system": {
+        "davon 12 Monate": 25.0,
+        "davon monatl. k\u00fcndbar": 15.0,
+        "VIP Abos heute": 5.0,
+        "Basic Abos heute": 1.0,
+        "24 Monate Umschreibung": 20.0,
+        "VIP-Umschreibung": 5.0,
+        "VIP-Kontakte": 15.0,
+        "Promoleads": 10.0,
+        "Google Bewertung gesammelt": 5.0,
+        "Coaching-Termin": 5.0,
+        "Erfolgsberichte": 5.0,
+        "K\u00fcr\u00fc": 10.0,
+        "\u00a720 Kurs": 10.0,
+        "Personal Training (je Probetraining)": 10.0,
+        "Personaltraining Umsatz (\u20ac)": 0.04,
+        "Anwahlversuche Gesamt": 1.0,
+        "davon terminiert": 5.0,
+        "Terminbest\u00e4tigung": 5.0
+    }
+}
